@@ -1,4 +1,4 @@
-# Task-5-Exploratory-Data-Analysis-EDA-TITANIC-dATASET
+# Task-5-Exploratory-Data-Analysis-EDA-TITANIC-DATASET
 
 1. Get the Titanic dataset
    The most common source is the Kaggle Titanic:Machin Leaning from Disaster dataset,which include:
