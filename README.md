@@ -1,4 +1,17 @@
 # Task-5-Exploratory-Data-Analysis-EDA-TITANIC-DATASET
+Here are a couple of well-documented GitHub repositories featuring the Titanic train dataset along with their README files that explain the dataset and project structure:
+🚢 Titanic Dataset Repositories on GitHub
+1. Titanic_Dataset
+- Dataset Overview: Contains train.csv with details of 891 passengers, including whether they survived (the “ground truth”).
+- Objective: Use patterns in the training data to predict survival outcomes for 418 passengers in test.csv.
+- Files Included: Jupyter notebook, submission CSV, and a PDF summary.
+  
+2.
+- Project Scope: Covers data exploration, transformation, and visualization.
+- Tools Used: Python, Jupyter Notebook, NumPy, Pandas, Seaborn, and Scikit-learn.
+- Insights:
+- Age distribution by class.
+
 
 1. Get the Titanic dataset
    The most common source is the Kaggle Titanic:Machin Leaning from Disaster dataset,which include:
